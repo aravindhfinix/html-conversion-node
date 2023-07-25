@@ -1,0 +1,36 @@
+{
+  "name": "html-conversion-node",
+  "version": "1.0.2",
+  "description": "package to covert html code to any other formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aravindhfinix/html-conversion-node.git"
+  },
+  "keywords": [
+    "html",
+    "pdf",
+    "txt",
+    "puppeteer",
+    "node",
+    "html-to-pdf",
+    "html-to-text",
+    "html-to-docs",
+    "node js",
+    "backend"
+  ],
+  "author": "aravindh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindhfinix/html-buffer-node/issues"
+  },
+  "homepage": "https://github.com/aravindhfinix/html-buffer-node#readme",
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "jest": "^29.6.1",
+    "puppeteer": "^20.9.0"
+  }
+}
